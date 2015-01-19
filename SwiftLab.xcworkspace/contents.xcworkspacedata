@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:lab02VarsAndConstaints/lab02VarsAndConstaints.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:lab01/lab01.xcodeproj">
    </FileRef>
 </Workspace>
