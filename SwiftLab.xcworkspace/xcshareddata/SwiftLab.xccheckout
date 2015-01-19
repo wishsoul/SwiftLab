@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A19EB744-7397-477C-A0BD-B1C6B546EA8A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SwiftLab</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>BD444A32D6D89310D69F6E6EDD362457C93269FF</key>
+		<string>https://github.com/wishsoul/SwiftLab.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SwiftLab.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BD444A32D6D89310D69F6E6EDD362457C93269FF</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/wishsoul/SwiftLab.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BD444A32D6D89310D69F6E6EDD362457C93269FF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BD444A32D6D89310D69F6E6EDD362457C93269FF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SwiftLab</string>
+		</dict>
+	</array>
+</dict>
+</plist>
