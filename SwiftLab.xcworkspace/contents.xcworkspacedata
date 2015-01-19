@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:Lab11_WebView/Lab11_WebView.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:Lab10_Objective/Lab10_Objective.xcodeproj">
    </FileRef>
    <FileRef
